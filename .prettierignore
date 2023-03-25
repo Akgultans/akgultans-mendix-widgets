@@ -1,0 +1,7 @@
+*.png
+*.svg
+*.snap
+**/dist
+.idea
+.husky
+.vscode
